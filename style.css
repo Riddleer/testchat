@@ -37,19 +37,6 @@ body {
     border: 1px solid #0f0;
     border-radius: 5px;
 }
-body {
-    background-color: #000;
-    color: #0f0; /* Vert */
-    font-family: 'Courier New', Courier, monospace; /* Typographie monospace */
-}
-
-#chat-window {
-    width: 400px;
-    margin: 50px auto;
-    padding: 20px;
-    border: 1px solid #0f0;
-    border-radius: 5px;
-}
 
 #message-container {
     width: 100%;
